@@ -3,9 +3,8 @@
 ## Installation
 
 1. Clone the repository.
-2. Run `composer install` if using any dependencies.
-3. Set up your database connection in `/config/db.php`.
-4. Import the provided SQL schema to your database.
+2. Set up your database connection in `/config/db.php`.
+3. Import the provided SQL schema to your database.
 
 ## Running the Project
 
